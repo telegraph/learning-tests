@@ -1,0 +1,8 @@
+<PublishResponse xmlns="http://sns.amazonaws.com/doc/2010-03-31/">
+    <PublishResult>
+        <MessageId>a009b75e-4c3c-5453-91fd-e6f7b4b140f8</MessageId>
+    </PublishResult>
+    <ResponseMetadata>
+        <RequestId>b11ef08f-be59-5c5d-9721-a12646d4a8f6</RequestId>
+    </ResponseMetadata>
+</PublishResponse>
